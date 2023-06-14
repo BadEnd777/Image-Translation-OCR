@@ -1,0 +1,12 @@
+{
+    "input_folder": "input",
+    "output_folder": "output",
+    "font_path": "fonts/Sarabun-Medium.ttf",
+    "font_size": 16,
+    "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "tesseract_lang": "jpn",
+    "translator_service_urls": [
+        "translate.google.com"
+    ],
+    "translation_dest": "th"
+}
